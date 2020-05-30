@@ -1,0 +1,13 @@
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.csprojAssemblyReference.cache
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.Form1.resources
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.Properties.Resources.resources
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.csproj.GenerateResource.cache
+C:\Users\Wald\source\repos\akses_database\akses_database\bin\Debug\akses_database.exe.config
+C:\Users\Wald\source\repos\akses_database\akses_database\bin\Debug\akses_database.exe
+C:\Users\Wald\source\repos\akses_database\akses_database\bin\Debug\akses_database.pdb
+C:\Users\Wald\source\repos\akses_database\akses_database\bin\Debug\npgsql.dll
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.csproj.CopyComplete
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.exe
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.pdb
+C:\Users\Wald\source\repos\akses_database\akses_database\obj\Debug\akses_database.exe.config
+C:\Users\Wald\source\repos\akses_database\akses_database\bin\Debug\mono.security.dll
